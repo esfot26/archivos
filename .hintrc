@@ -1,0 +1,19 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "meta-viewport": "off",
+    "axe/forms": [
+      "default",
+      {
+        "label": "off"
+      }
+    ],
+    "axe/text-alternatives": "off",
+    "meta-charset-utf-8": "off",
+    "axe/language": "off",
+    "axe/aria": "off",
+    "no-inline-styles": "off"
+  }
+}
